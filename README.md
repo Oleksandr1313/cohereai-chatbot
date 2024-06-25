@@ -10,7 +10,6 @@ This project implements a simple web-based chatbot using Python Flask and the Co
 - **Flask**: A lightweight web framework used to create the web application and handle HTTP requests.
 - **Cohere API**: Integrated for natural language processing to generate responses based on user input.
 - **HTML/CSS**: Used for creating the user interface and styling the chat window.
-- **JavaScript**: Used minimally for client-side functionality, such as auto-scrolling the chat window.
 
 ## Features
 
